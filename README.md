@@ -1,3 +1,3 @@
 # hello-world
 
-# Just some info about readme files...
+# I'm Sydney, an Astro grad student at UT Austin!
